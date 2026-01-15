@@ -1,5 +1,5 @@
 - 👋 My name: Shiyu Yang
-- 📫 Email: 20216732@stu.neu.edu.cn
+- 📫 Email: yangsy8@mails.neu.edu.cn
 - 📫 Email: 1053915519@qq.com
 
 <!---
